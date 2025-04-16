@@ -2,8 +2,9 @@
 
 📡 CellScope – Advanced CellID Enumeration &amp; Visualization
 
-**CellScope** est un outil d’énumération avancée des réseaux cellulaires (GSM / UMTS / LTE / 5G).  
-Il scanne, collecte et parse toutes les informations disponibles sur les cellules voisines (et principales), incluant :
+**CellScope** est un outil d’énumération et de parsing avancée en pyhton3 des réseaux cellulaires (GSM / UMTS / LTE / 5G).  
+Il scanne, collecte et parse toutes les informations disponibles sur les cellules voisines (et principales),
+depuis des BDD open-source pour le momen, incluant :
 
 - `CellID`
 - `LAC` / `TAC`
@@ -21,7 +22,6 @@ Il scanne, collecte et parse toutes les informations disponibles sur les cellule
 - 📶 Détection automatique des cellules aux alentours
 - 📊 Extraction complète de toutes les propriétés radio
 - 🧾 Export **HTML stylisé** avec filtrage par opérateur ou technologie
-- 🖥️ Interface simple en ligne de commande
 
 ---
 
